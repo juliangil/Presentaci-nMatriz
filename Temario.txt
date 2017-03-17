@@ -1,0 +1,54 @@
+﻿MATRIZ DE FLEXIBILIDAD
+
+1) Problema
+	-Excel
+	-Desventajas
+	
+2) Propuesta como solución
+	2.1)Aplicación web. 
+		-Proyecto desde cero: rediseño de la experiencia del usuario (que sea más cómodo)
+		-Aprovechando como capacitación para:
+			-Metodologías de trabajo
+			-Planificación.
+			-Tecnologías nuevas.
+				-Evaluación sobre utilidad de la tecnología.
+				-Evaluación sobre la curva de aprendizaje.
+			-Arquitectura de aplicaciones
+	2.2)Arquitectura y tecnologías (resumido)
+		-Frontend
+		-Backend
+		-Datos
+		-LDAP
+3) Desarrollo
+	3.1) Secciones - Experiencia del usuario, detalles funcionales
+	3.2) Qué hay hecho hasta ahora
+	3.3) Inconvenientes
+	3.4) Ventajas y desventajas sobre tecnologías y metodologías
+
+4) Conclusiones
+	- La curva de aprendizaje de tecnologias como React, JSX y Redux, al inicio puede ser tediosa o complicada, pero la adaptacion
+	  es ràpida y se puede dominar en poco tiempo
+	- Usar React puede traer ventajas y desventajas. Sus ventajas pueden ser: su modularizaciòn, alto rendimiento, transparencia, rapido
+	  renderizado, uso de un DOM Virtual que para aplicaciones muy grandes mantiene su performance. 
+	  Una desventaja puede llegar a ser el volumen de codigo o nùmero de archivos js generados, el flujo de datos va en una sola direcciòn
+          (Acostumbrable). Incompatibilidades con otras librerìas, por ejemplo jQuery
+	- Se aprovecha un proyecto ya hecho (Auth - Api - Angular y Node js) para la autenticacion de usuarios. Haciendo que matriz use los servicios 
+	  de Api Auth, lo cual lo convierte en un sistema modular e integro.
+	- El proceso de llenado o diligenciamiento de matriz de flexibilidad se automatiza, haciendo que dicha tarea sea amigable para los usuarios.
+	- I+D como algunos otros desarrolladores de C&S tuvieron interacciòn con nuevas tecnologìas, lo cual fomenta capacitaciones y desarrollo de 
+	  software con herramientas nuevas e innovadoras. 
+	
+5) Qué es lo que falta
+
+--------------------------------------------------------------------------------------------------
+
+ANEXO
+
+1) Problema
+	-Mostrar el access
+	-Desventajas
+	
+2) Propuesta como solución
+	2.1) Tecnologías
+	2.2) Reuniones - Qué es lo que hay desarrollado hasta el momento
+	2.3) Planes a corto plazo - ABM, Pantalla de puntuación de títulos
